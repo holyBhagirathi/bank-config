@@ -1,5 +1,5 @@
 cards:
-  message: "Welcome to EazyBank accounts related customer APIs "
+  message: "Welcome to EazyBank accounts related customer with AMQP APIs "
   contactDetails:
     name: "John customer - customer"
     email: "john@eazybank.com"
