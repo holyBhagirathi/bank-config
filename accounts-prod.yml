@@ -1,0 +1,8 @@
+accounts:
+  message: "Welcome to EazyBank accounts related customer APIs "
+  contactDetails:
+    name: "John customer - customer"
+    email: "john@eazybank.com"
+  onCallSupport:
+    - (555) 555-1234
+    - (555) 523-1345
