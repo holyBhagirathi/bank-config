@@ -23,3 +23,5 @@ loans:
   onCallSupport:
     - (555) 555-1234
     - (555) 523-1345
+build: 
+  version: "2.0"
